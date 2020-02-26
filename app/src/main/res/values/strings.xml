@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+    <string name="launch_detail_activity">Launch Detail Activity</string>
 </resources>
